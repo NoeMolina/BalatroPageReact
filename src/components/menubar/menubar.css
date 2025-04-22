@@ -1,0 +1,20 @@
+menu{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-family: 'balatro', sans-serif;
+    position: fixed;
+    bottom: 120px;
+    left: 50%;
+    transform: translate(-50%);
+    width: 70%;
+    height: auto;
+    background-color: #374E52;
+    color: white;
+    font-size: 5em;
+    padding: 5px;
+    margin: 0px;
+    z-index: 1;
+    text-align: center;
+    border-radius: 5px;
+}
